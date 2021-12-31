@@ -1,4 +1,4 @@
-This project is a tutorial for React from YouTube video React JS - React Tutorial for Beginners by Programming With Mosh [https://www.youtube.com/watch?v=Ke90Tje7VS0&t=4600s]
+This project is a tutorial for React from Udemy video by Academind by Maximilian Schwarzmüller.
 
 # Getting Started with Create React App
 
