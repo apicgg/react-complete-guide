@@ -24,7 +24,7 @@ const App = () => {
     },
   ];
 
-  // Can be used React object instead of JSX
+  // Can be used React object instead of JSX, need to import React in top of the file
   // return React.createElement(
   //   'div',
   //   {},
