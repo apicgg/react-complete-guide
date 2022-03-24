@@ -18,7 +18,7 @@ const ExpenseForm = (props) => {
     //   ...userInput,
     //   enteredTitle: event.target.value,
     // });
-    // ! The most preferred way to call useState function, like if new state is depended on previous state
+    // ! The most preferred way to call useState with function, like if new state is depended on previous state
     // setUserInput((prevState) => {
     //   return { ...prevState, enteredTitle: event.target.value };
     // });
